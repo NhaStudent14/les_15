@@ -1,0 +1,47 @@
+body {
+    background-color: #e7e7e7;
+    margin: 0px 100px;
+    text-align: center;
+}
+
+
+
+header {
+    background-color: #212121;
+    padding: 8px;
+
+
+}
+
+ul a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+li {
+    padding: 8px;
+    display: inline-block;
+    border: 1px solid #c4fc0c;
+
+
+}
+
+li:hover {
+    color: rgb(79, 216, 29);
+    background-color: #c4fc0c;
+}
+
+footer {
+    background-color: #212121;
+    padding: 8px;
+    color: #ffffff;
+}
+input, textarea, button {
+display:block;
+margin: 15px 0px;
+width: 400px;
+}
+
+button:active {
+background-color: #c4fc0c;
+}
